@@ -1,4 +1,4 @@
-# pythagorean-therum
-Solves pythagorean thorem equations with 2 legs
+# pythagorean-theorem
+Solves pythagorean theorem equations with 2 legs
 thats it
 have fun
